@@ -10,6 +10,10 @@ For this assignment, you'll create a workout tracker. You have already been prov
 
 A consumer will reach their fitness goals more quickly when they track their workout progress.
 
+## Deployed 
+
+https://arcane-fortress-52556.herokuapp.com/?id=6023768ef45a960015bbae85
+
 ## Screenshots
 
 ![Screenshot (77)](https://user-images.githubusercontent.com/70493940/107471983-f9446000-6b22-11eb-9738-19ee20cd7362.png)
